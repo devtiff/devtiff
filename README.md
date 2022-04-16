@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devtiff
-- 👀 I’m interested in web designing and app development
-- 🌱 I’m currently learning Javascript and Phython 
-- 💞️ I’m looking to collaborate on Projects and grow together 
+- 👀 I’m into in web designing and app development.
+- 🌱 I’m strong in html,css,javascript and reactjs.  
+- 💞️ I’m looking to collaborate on Projects and grow together. 
 - 📫 How to reach me - 08146145533 or aminutaiwo69@gmail.com
 
 <!---
